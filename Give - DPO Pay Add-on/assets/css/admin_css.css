@@ -1,0 +1,44 @@
+/*Form Css Start*/
+.text-filed input[type="text"] {
+    width: 30%;
+}
+.text-filed label {
+    display: block;
+}
+input[type="submit"] {
+    margin: 10px 0px 10px 0px;
+    padding: 10px 25px 10px 25px;
+    position: relative;
+    text-decoration: none;
+    border: 1px solid #2271b1;
+    border-radius: 2px;
+    text-shadow: none;
+    font-weight: 600;
+    font-size: 13px;
+    line-height: normal;
+    color: #2271b1;
+    background: #f6f7f7;
+    cursor: pointer;
+}
+input[type="submit"]:hover {
+background: #f0f0f1;
+    border-color: #0a4b78;
+    color: #0a4b78;
+}
+.order-tracking .submit{
+    margin: 10px 0px 10px 0px;
+    padding: 10px 25px 10px 25px;
+    position: relative;
+    text-decoration: none;
+    border: 1px solid #2271b1;
+    border-radius: 2px;
+    text-shadow: none;
+    font-weight: 600;
+    font-size: 13px;
+    line-height: normal;
+    color: #2271b1;
+    background: #f6f7f7;
+    cursor: pointer;
+    top: 25px;
+}
+/*Form Css Start*/

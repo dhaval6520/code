@@ -1,0 +1,9 @@
+/* MY Account Css*/
+table, th, td {
+  border: 1px solid;
+}
+
+.ajax_response {
+    margin-top: 50px;
+}
+/* End */
